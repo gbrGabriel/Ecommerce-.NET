@@ -1,4 +1,5 @@
 ﻿using Application.Interfaces.Repositories;
+using Application.Mappings;
 using Infrastructure.Context;
 using Infrastructure.Repositories;
 using Microsoft.EntityFrameworkCore;
@@ -12,6 +13,8 @@ public static class DependencyInjectionModule
 {
     public static void Register(this IServiceCollection services)
     {
+        services.AddAutoMapper(typeof(MappingProfiles));
+
         var assemblyRepositoryBase = Assembly.GetAssembly(typeof(RepositoryBase<>)); // Obtém o assembly que contém a classe RepositoryBase
 
         var repositoryInterfaceType = typeof(IRepositoryBase<>); // Obtém o tipo IRepositoryBase<>
