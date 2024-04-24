@@ -31,5 +31,6 @@ public class ProductController(IRepositoryProduct repositoryProduct, IRepository
 
     [HttpGet("brands/{id:int}")]
     public async Task<IActionResult> GetProductBrandsById(int id) => Ok(await _repositoryProductBrand.GetByIdAsync(id));
+
 }
 
