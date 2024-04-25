@@ -1,6 +1,8 @@
 ﻿using Application.Interfaces.Repositories;
+using Domain.Entities;
 using Infrastructure.Context;
 using Microsoft.EntityFrameworkCore;
+using System.Linq.Expressions;
 
 namespace Infrastructure.Repositories;
 
@@ -74,7 +76,11 @@ public class RepositoryBase<TEntity>(ApplicationDbContext context) : IRepository
         return result > 0;
     }
 
-    public virtual async Task<IEnumerable<TEntity>> GetAll()
+    public virtual async Task<IEnumerable<TEntity>> GetAllAsync(Expression<Func<Product, bool>>? filter = null,
+        Func<IQueryable<Product>, IOrderedQueryable<Product>>? orderBy = null,
+        bool isPagingEnabled = false,
+        int? skip = null,
+        int? take = null)
         => await _context.Set<TEntity>().ToListAsync();
 
     public virtual async Task<TEntity?> GetByIdAsync(int id)
