@@ -3,18 +3,6 @@
   "WorkspaceRootPath": "D:\\Projetos\\Ecommerce.NET\\src\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{34F05C04-3213-49F8-B81C-4124A8180FA1}|Presentation\\Presentation.csproj|d:\\projetos\\ecommerce.net\\src\\presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{34F05C04-3213-49F8-B81C-4124A8180FA1}|Presentation\\Presentation.csproj|solutionrelative:presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{34F05C04-3213-49F8-B81C-4124A8180FA1}|Presentation\\Presentation.csproj|d:\\projetos\\ecommerce.net\\src\\presentation\\presentation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{34F05C04-3213-49F8-B81C-4124A8180FA1}|Presentation\\Presentation.csproj|solutionrelative:presentation\\presentation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{34F05C04-3213-49F8-B81C-4124A8180FA1}|Presentation\\Presentation.csproj|d:\\projetos\\ecommerce.net\\src\\presentation\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{34F05C04-3213-49F8-B81C-4124A8180FA1}|Presentation\\Presentation.csproj|solutionrelative:presentation\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C0DA97D0-2E56-4208-9D11-0C23675A830D}|Infrastructure\\Infrastructure.csproj|d:\\projetos\\ecommerce.net\\src\\infrastructure\\repositories\\repositoryproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C0DA97D0-2E56-4208-9D11-0C23675A830D}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repositories\\repositoryproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -27,24 +15,16 @@
       "RelativeMoniker": "D:0:0:{8804AE60-186B-4C0A-9E21-A67C012BD401}|Application\\Application.csproj|solutionrelative:application\\interfaces\\repositories\\irepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{34F05C04-3213-49F8-B81C-4124A8180FA1}|Presentation\\Presentation.csproj|d:\\projetos\\ecommerce.net\\src\\presentation\\errors\\responseapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{34F05C04-3213-49F8-B81C-4124A8180FA1}|Presentation\\Presentation.csproj|solutionrelative:presentation\\errors\\responseapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{34F05C04-3213-49F8-B81C-4124A8180FA1}|Presentation\\Presentation.csproj|d:\\projetos\\ecommerce.net\\src\\presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34F05C04-3213-49F8-B81C-4124A8180FA1}|Presentation\\Presentation.csproj|solutionrelative:presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34F05C04-3213-49F8-B81C-4124A8180FA1}|Presentation\\Presentation.csproj|d:\\projetos\\ecommerce.net\\src\\presentation\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34F05C04-3213-49F8-B81C-4124A8180FA1}|Presentation\\Presentation.csproj|solutionrelative:presentation\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{34F05C04-3213-49F8-B81C-4124A8180FA1}|Presentation\\Presentation.csproj|d:\\projetos\\ecommerce.net\\src\\presentation\\controllers\\errorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{34F05C04-3213-49F8-B81C-4124A8180FA1}|Presentation\\Presentation.csproj|solutionrelative:presentation\\controllers\\errorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{34F05C04-3213-49F8-B81C-4124A8180FA1}|Presentation\\Presentation.csproj|d:\\projetos\\ecommerce.net\\src\\presentation\\errors\\validationerrorresponseapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{34F05C04-3213-49F8-B81C-4124A8180FA1}|Presentation\\Presentation.csproj|solutionrelative:presentation\\errors\\validationerrorresponseapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{34F05C04-3213-49F8-B81C-4124A8180FA1}|Presentation\\Presentation.csproj|d:\\projetos\\ecommerce.net\\src\\presentation\\errors\\exceptionapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{34F05C04-3213-49F8-B81C-4124A8180FA1}|Presentation\\Presentation.csproj|solutionrelative:presentation\\errors\\exceptionapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{34F05C04-3213-49F8-B81C-4124A8180FA1}|Presentation\\Presentation.csproj|d:\\projetos\\ecommerce.net\\src\\presentation\\middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{34F05C04-3213-49F8-B81C-4124A8180FA1}|Presentation\\Presentation.csproj|solutionrelative:presentation\\middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D3E033F7-887F-460F-9939-D401E09E0CD2}|Domain\\Domain.csproj|d:\\projetos\\ecommerce.net\\src\\domain\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -58,115 +38,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Presentation",
-              "DocumentMoniker": "D:\\Projetos\\Ecommerce.NET\\src\\Presentation\\Presentation.csproj",
-              "RelativeDocumentMoniker": "Presentation\\Presentation.csproj",
-              "ToolTip": "D:\\Projetos\\Ecommerce.NET\\src\\Presentation\\Presentation.csproj",
-              "RelativeToolTip": "Presentation\\Presentation.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-04-25T00:32:04.008Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IRepositoryBase.cs",
-              "DocumentMoniker": "D:\\Projetos\\Ecommerce.NET\\src\\Application\\Interfaces\\Repositories\\IRepositoryBase.cs",
-              "RelativeDocumentMoniker": "Application\\Interfaces\\Repositories\\IRepositoryBase.cs",
-              "ToolTip": "D:\\Projetos\\Ecommerce.NET\\src\\Application\\Interfaces\\Repositories\\IRepositoryBase.cs",
-              "RelativeToolTip": "Application\\Interfaces\\Repositories\\IRepositoryBase.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAArAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-24T23:32:21.408Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "RepositoryProduct.cs",
               "DocumentMoniker": "D:\\Projetos\\Ecommerce.NET\\src\\Infrastructure\\Repositories\\RepositoryProduct.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Repositories\\RepositoryProduct.cs",
               "ToolTip": "D:\\Projetos\\Ecommerce.NET\\src\\Infrastructure\\Repositories\\RepositoryProduct.cs",
               "RelativeToolTip": "Infrastructure\\Repositories\\RepositoryProduct.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAApAAAA",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA6wB4AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-24T23:15:19.499Z",
+              "WhenOpened": "2024-04-27T16:37:38.994Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
+              "Title": "IRepositoryBase.cs",
+              "DocumentMoniker": "D:\\Projetos\\Ecommerce.NET\\src\\Application\\Interfaces\\Repositories\\IRepositoryBase.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\Repositories\\IRepositoryBase.cs",
+              "ToolTip": "D:\\Projetos\\Ecommerce.NET\\src\\Application\\Interfaces\\Repositories\\IRepositoryBase.cs",
+              "RelativeToolTip": "Application\\Interfaces\\Repositories\\IRepositoryBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T16:37:20.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "RepositoryBase.cs",
               "DocumentMoniker": "D:\\Projetos\\Ecommerce.NET\\src\\Infrastructure\\Repositories\\RepositoryBase.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Repositories\\RepositoryBase.cs",
               "ToolTip": "D:\\Projetos\\Ecommerce.NET\\src\\Infrastructure\\Repositories\\RepositoryBase.cs",
               "RelativeToolTip": "Infrastructure\\Repositories\\RepositoryBase.cs",
-              "ViewState": "AQIAADYAAAAAAAAAAAA/wEkAAAANAAAA",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAUwC4AAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-24T23:14:53.211Z",
+              "WhenOpened": "2024-04-27T16:36:57.807Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ValidationErrorResponseApi.cs",
-              "DocumentMoniker": "D:\\Projetos\\Ecommerce.NET\\src\\Presentation\\Errors\\ValidationErrorResponseApi.cs",
-              "RelativeDocumentMoniker": "Presentation\\Errors\\ValidationErrorResponseApi.cs",
-              "ToolTip": "D:\\Projetos\\Ecommerce.NET\\src\\Presentation\\Errors\\ValidationErrorResponseApi.cs",
-              "RelativeToolTip": "Presentation\\Errors\\ValidationErrorResponseApi.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T22:55:44.963Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ExceptionMiddleware.cs",
-              "DocumentMoniker": "D:\\Projetos\\Ecommerce.NET\\src\\Presentation\\Middleware\\ExceptionMiddleware.cs",
-              "RelativeDocumentMoniker": "Presentation\\Middleware\\ExceptionMiddleware.cs",
-              "ToolTip": "D:\\Projetos\\Ecommerce.NET\\src\\Presentation\\Middleware\\ExceptionMiddleware.cs",
-              "RelativeToolTip": "Presentation\\Middleware\\ExceptionMiddleware.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T21:51:44.543Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ExceptionApi.cs",
-              "DocumentMoniker": "D:\\Projetos\\Ecommerce.NET\\src\\Presentation\\Errors\\ExceptionApi.cs",
-              "RelativeDocumentMoniker": "Presentation\\Errors\\ExceptionApi.cs",
-              "ToolTip": "D:\\Projetos\\Ecommerce.NET\\src\\Presentation\\Errors\\ExceptionApi.cs",
-              "RelativeToolTip": "Presentation\\Errors\\ExceptionApi.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAIAAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T21:48:31.13Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ResponseApi.cs",
-              "DocumentMoniker": "D:\\Projetos\\Ecommerce.NET\\src\\Presentation\\Errors\\ResponseApi.cs",
-              "RelativeDocumentMoniker": "Presentation\\Errors\\ResponseApi.cs",
-              "ToolTip": "D:\\Projetos\\Ecommerce.NET\\src\\Presentation\\Errors\\ResponseApi.cs",
-              "RelativeToolTip": "Presentation\\Errors\\ResponseApi.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T21:39:43.065Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 5,
               "Title": "ErrorController.cs",
               "DocumentMoniker": "D:\\Projetos\\Ecommerce.NET\\src\\Presentation\\Controllers\\ErrorController.cs",
               "RelativeDocumentMoniker": "Presentation\\Controllers\\ErrorController.cs",
@@ -174,12 +89,11 @@
               "RelativeToolTip": "Presentation\\Controllers\\ErrorController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T21:32:13.792Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-23T21:32:13.792Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "ProductController.cs",
               "DocumentMoniker": "D:\\Projetos\\Ecommerce.NET\\src\\Presentation\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "Presentation\\Controllers\\ProductController.cs",
@@ -187,12 +101,11 @@
               "RelativeToolTip": "Presentation\\Controllers\\ProductController.cs",
               "ViewState": "AQIAABIAAAAAAAAAAAAWwCIAAAA2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-20T22:21:30.906Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-20T22:21:30.906Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 6,
               "Title": "BaseEntity.cs",
               "DocumentMoniker": "D:\\Projetos\\Ecommerce.NET\\src\\Domain\\Entities\\BaseEntity.cs",
               "RelativeDocumentMoniker": "Domain\\Entities\\BaseEntity.cs",
@@ -204,7 +117,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Projetos\\Ecommerce.NET\\src\\Presentation\\Program.cs",
               "RelativeDocumentMoniker": "Presentation\\Program.cs",
